@@ -15,28 +15,28 @@ Targets: monthly revenue target per employee
 # Analysis
 The analysis included:
 
-Data cleaning and data type correction in Power Query
-Data modeling (star schema with a shared Calendar table)
-KPI definition using DAX measures
-Target vs. actual revenue comparison
-Employee ranking and performance gap identification
-Product and regional revenue breakdown
+- Data cleaning and data type correction in Power Query
+- Data modeling (star schema with a shared Calendar table)
+- KPI definition using DAX measures
+- Target vs. actual revenue comparison
+- Employee ranking and performance gap identification
+- Product and regional revenue breakdown
 
 # Dashboard
 
 An interactive dashboard was developed to present key insights, allowing managers to:
 
-Monitor KPIs (revenue, target achievement, win rate, average deal size)
-Rank employees by revenue
-Compare revenue against target month by month
-Identify underperformers with colour-coded results (green / amber / red)
-Filter by region, manager and date range
+- Monitor KPIs (revenue, target achievement, win rate, average deal size)
+- Rank employees by revenue
+- Compare revenue against target month by month
+- Identify underperformers with colour-coded results (green / amber / red)
+- Filter by region, manager and date range
 
 # Technologies
 
-Microsoft Power BI
-DAX
-Power Query
-Microsoft Excel
-Data Visualization
+- Microsoft Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+- Data Visualization
 
